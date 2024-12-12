@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Shahriar-H/Quran-app/blob/main/assets/images/1.jpg" alt="Image 1" width="150">
+  <img src="https://github.com/Shahriar-H/Quran-app/blob/main/assets/images/2.jpg" alt="Image 2" width="150">
+  <img src="https://github.com/Shahriar-H/Quran-app/blob/main/assets/images/3.jpg" alt="Image 3" width="150">
+  <img src="https://github.com/Shahriar-H/Quran-app/blob/main/assets/images/4.jpg" alt="Image 4" width="150">
+</p>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
